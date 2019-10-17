@@ -1,0 +1,8 @@
+moter diameter =	6mm
+prop diameter =		31mm
+motor diag distance =	65mm
+aio square distanc =	26mm aka 1inch
+first cut: default speed on the lazer is probably too slow for balsa. seems like the piece continues to burn a little after the cutting is done so probably need to do some testing with cranking up the speed. piece is incredibly light weight at only .7 grams according to the scale at the fablab. we'll see how the motors fit but i think they will be loose from over burning. will have to find optimum balsa cut speed before moving forward
+speed tests: 65% is the approx speed. the raster at 40% speed cuts about half way through the balsa so that will need to be fixed
+fit test: tested proper radius for 6mm motors = 5.65mm
+designed v2 and v3, v2 is ducted and v3 is ducted with a ring that surrounds the whole drone. will need to see if the uper portion of the ducts interferes with the AIO board.
